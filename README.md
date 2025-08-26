@@ -97,8 +97,7 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 This project is licensed under the MIT License.
 
 ## Authors
-- [Your Name]
-- [Contributors]
+- Kahan Mistry
 
 ---
 For more details, see the source code and documentation in each folder.
